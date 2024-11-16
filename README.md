@@ -83,5 +83,15 @@
                 <li>Gestion de la pagination pour parcourir plusieurs pages de résultats.</li>
                 <li>Exportation organisée et réutilisable des données dans un fichier Excel.</li>
             </ul>
+            <hr>
+            <h3>Les technologies utilisées</h3>
+            <ul>
+                <li>Python</li>
+                <li>Scrapy</li>
+                <li>Scrapy-Splash</li>
+                <li>Splash</li>
+                <li>Pandas</li>
+                <li>Excel</li>
+            </ul>
     </body>
  </html>
