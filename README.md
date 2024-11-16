@@ -5,7 +5,7 @@
             Ce script est conçu pour scraper les offres de stages depuis le site MyJobAlert.ma en utilisant Scrapy pour la gestion des requêtes et Splash pour le rendu des pages dynamiques (JavaScript). 
             Les données des offres sont collectées et exportées dans un fichier Excel nommé job_offers.xlsx.
           </p>
-          <br>
+          <hr>
           <h2>Principales Fonctionnalités </h2>
            <ul>
             <li>
@@ -76,7 +76,7 @@
                 <li>experience : Années d'expérience requises.</li>
                 <li>description : Description complète de l'offre.</li>
             </ul>
-            <br>
+            <hr>
             <h3>Points Forts</h3>
             <ul>
                 <li>Utilisation de Splash pour scraper des pages nécessitant un rendu JavaScript.</li>
