@@ -1,11 +1,12 @@
 <html>
     <body>
-        <h2>Objectif : </h2>
+        <h2>Objectif  </h2>
          <p>
             Ce script est conçu pour scraper les offres de stages depuis le site MyJobAlert.ma en utilisant Scrapy pour la gestion des requêtes et Splash pour le rendu des pages dynamiques (JavaScript). 
             Les données des offres sont collectées et exportées dans un fichier Excel nommé job_offers.xlsx.
           </p>
-          <h2>Principales Fonctionnalités :</h2>
+          <br>
+          <h2>Principales Fonctionnalités </h2>
            <ul>
             <li>
                 <h4>Initialisation</h4>
